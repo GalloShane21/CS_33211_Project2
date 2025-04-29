@@ -13,6 +13,7 @@ Type C has 7 instances
 Implement the Banker's algorithm to answer the following question: Is the system in a safe state? If yes, then what is the safe sequence?
 
 ## Implementation
+![image](inputFilePic.png)
 
 
 
