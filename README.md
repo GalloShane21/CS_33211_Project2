@@ -18,7 +18,7 @@ My input file can be seen below.<br/>
 -Lines 1-5 represent the allocation matrix<br/>
 -Lines 6-10 represent the max matrix<br/>
 -Line 11 represents the available resource array.<br/>
-Each line represents a process and each row represents each processes allocation for resource type A, B, and C.
+Each line represents a process and each row represents each processes allocation for resource type A, B, and C.<br/>
 ![image](inputFilePic.png)<br/>
 <br/>
 Inside of the program, I begin by reading in each character from the input file and storing them in the appropriate matrix/array.
