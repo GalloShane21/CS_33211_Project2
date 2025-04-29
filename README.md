@@ -3,9 +3,9 @@
 
  ## Project Description (Instructions given in class)
 Consider a system with 
-five processes P0 through P4 and three resources of type A, B, C.
-Type A has ten instances 
-Type B has 5 instances
+five processes P0 through P4 and three resources of type A, B, C.\n
+Type A has ten instances\n
+Type B has 5 instances\n
 Type C has 7 instances
 
 ![image](InstructionPicture.png)
