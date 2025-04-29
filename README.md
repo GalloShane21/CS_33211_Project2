@@ -4,13 +4,16 @@
  ## Project Description (Instructions given in class)
 Consider a system with 
 five processes P0 through P4 and three resources of type A, B, C.<br/>
-Type A has ten instances<br/>
+Type A has 10 instances<br/>
 Type B has 5 instances<br/>
 Type C has 7 instances
 
 ![image](InstructionPicture.png)
 
 Implement the Banker's algorithm to answer the following question: Is the system in a safe state? If yes, then what is the safe sequence?
+
+## Implementation
+
 
 
 ## To Compile and run
@@ -22,3 +25,4 @@ g++ bankers.cpp utils.cpp -o banker
 ```
 
 ## Examples
+![image](ProjectExample.png)
